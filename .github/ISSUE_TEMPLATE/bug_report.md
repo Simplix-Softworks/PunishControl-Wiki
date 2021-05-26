@@ -34,7 +34,7 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 18.04]
  - Java-Version: [e.g. 1.8.0_291] 
 
-** FIles**
+**Files**
 - Please attach your PunishControl.log file in your PunishControl folder
 
 **To Reproduce**
