@@ -34,4 +34,4 @@ If applicable:
 Steps to reproduce the behavior:
 1. Execute command '/...'
 2. Click on '....'
-3. See stacktracein console
+3. See stacktrace in console
